@@ -1,3 +1,7 @@
+## MOVED INTO `SimPEG.FLOW`
+
+https://github.com/simpeg/simpeg
+
 simpegflow
 **********
 
